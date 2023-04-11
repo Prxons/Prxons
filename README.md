@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://activity-graph.herokuapp.com/graph?username=MilkToffees&theme=github)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=MilkToffees&theme=react)
 
 <!--
 **MilkToffees/MilkToffees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
