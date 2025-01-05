@@ -1,11 +1,12 @@
 <div align="center">
+    <div>
     <a href="https://github.com/i2015">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=520&duration=1500&repeat=false&lines=print(%22Hello%2C%20World%22);&center=true&size=27" />
     </a>
+    </div>
+    <h6>“We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity.”</h6>
+    <h5>“我们希望有一天，那些设置障碍使自己的人民与世界隔离、使人民相互隔离的政府，将认识到他们不仅损害自己的利益，也损害自己的公民和全人类的权利。”</h5>
 </div>
-
-***“We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity.”***<br>
-***“我们希望有一天，那些设置障碍使自己的人民与世界隔离、使人民相互隔离的政府，将认识到他们不仅损害自己的利益，也损害自己的公民和全人类的权利。”***
 
 <!--
 # Hi, I'm MilkToffees 👋
