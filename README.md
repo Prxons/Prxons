@@ -1,5 +1,4 @@
-🌈
-<h4><em>“We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity.”</em></h4>
+<h4>🌈<em>“We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity.”</em></h4>
 <div>
     <!-- <div align="center">
     <a href="https://github.com/i2015">
